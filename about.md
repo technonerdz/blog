@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I've always been passionate by technology, robotics and online security. I've also always loved programming. I have developed programming skills in many popular language such as PHP, JavaScript, HTML, SQL and others. I am also known for being the creator of the website [PasswordSecurity.info](https://passwordsecurity.info)!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[felix@felixgiffard.com](mailto:felix@felixgiffard.com)
