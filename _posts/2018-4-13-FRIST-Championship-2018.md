@@ -2,11 +2,9 @@ Cette année était ma dernière année du secondaire et donc ma dernière anné
 
 ![Équipe de robotique 2018](/images/equipe-2018.jpg)
 
-J’étais très fier de notre robot cette année, il était différent des autres et il avait un slingshot intégré pour lancer les cubes sur la balance.
+J’étais très fier de notre robot cette année, il était différent des autres et il avait un slingshot intégré pour lancer les cubes sur la balance. Malheureusement, il n’a pas été choisi pour faire parti des phases éliminatoires. Par contre, ça nous empêche pas de pouvoir être fier de notre création.
 
 ![Sling](https://i.imgur.com/DtP9qazh.jpg)
-
-Malheureusement, il n’a pas été choisi pour faire parti des phases éliminatoires. Par contre, ça nous empêche pas de pouvoir être fier de notre création.
 
 
 **Conférence GIFT Robotics à Détroit**
