@@ -11,8 +11,8 @@ J’étais très fier de notre robot cette année, il était différent des autr
 
 Bien que nous n’avons pas été choisis pour aller compétitionner aux mondiaux, moi et quelques autres membres de mon équipe avons été choisis pour aller donner une [conférence sur notre initiative GIFT Robotics](https://www.firstchampionship.org/gift-robotics-global-initiative).
 
-[GIFT Robotics](https://giftrobotics.org) est une organisation menée par des élèves des équipes FRC 2626, 694 et 6955 ainsi que les équipes FTC 3590 et 6037. L’organisation a été fondée à notre retour de la compétition FIRST Global à Washington cet été. C’est à cette compétition que nous avons réalisé qu’il avait beaucoup d’intérêt pour la robotique dans tous les pays du monde. Notre organisation a l’objectif d’aider ces équipes à devenir des équipes FIRST Robotics. Cette année, nous avons aidé à partir une équipe FRC en Turquie et en Norvège. Nous sommes également rester en contact avec ces équipes afin de les aider dans l’organisation et dans la construction de leur robot.
+[GIFT Robotics](https://giftrobotics.org) est une organisation menée par des élèves des équipes FRC [2626](https://evolution2626.org), [694](https://stuypulse.com/) et [6955](http://loschilis.cl/) ainsi que les équipes FTC 3590 et 6037. L’organisation a été fondée à notre retour de la compétition FIRST Global à Washington cet été. C’est à cette compétition que nous avons réalisé qu’il avait beaucoup d’intérêt pour la robotique dans tous les pays du monde. Notre organisation a l’objectif d’aider ces équipes à devenir des équipes FIRST Robotics. Cette année, nous avons aidé à partir une équipe FRC en [Turquie](http://www.roctopus7134.com/) et en [Norvège](http://www.hellrobotics.no/). Nous sommes également rester en contact avec ces équipes afin de les aider dans l’organisation et dans la construction de leur robot.
 
 **Notre voyage à Détroit**
 
-Afin de se rendre à Détroit,
+Afin de se rendre à Détroit, l'équipe [3990](https://www.team3990.com/) Tech for Kids nous nous a proposé de partager leur autobus avec eux à partir de Montréal. C'est ce qui nous a sauver et nous voulons les remercier.
