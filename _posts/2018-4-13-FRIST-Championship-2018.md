@@ -16,3 +16,7 @@ Bien que nous n’avons pas été choisis pour aller compétitionner aux mondiau
 **Notre voyage à Détroit**
 
 Afin de se rendre à Détroit, l'équipe [3990](https://www.team3990.com/) Tech for Kids nous nous a proposé de partager leur autobus avec eux à partir de Montréal. C'est ce qui nous a sauver et nous voulons les remercier.
+
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Arrived at Cobo Center ! <a href="https://twitter.com/hashtag/FIRSTChamp?src=hash&amp;ref_src=twsrc%5Etfw">#FIRSTChamp</a> <a href="https://t.co/oiPgPC8jnS">pic.twitter.com/oiPgPC8jnS</a></p>&mdash; Félix Giffard @ #FIRSTChamp (@technonerdz) <a href="https://twitter.com/technonerdz/status/989134072327933952?ref_src=twsrc%5Etfw">25 avril 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
