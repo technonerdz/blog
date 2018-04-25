@@ -1,3 +1,4 @@
+
 Cette année était ma dernière année du secondaire et donc ma dernière année officielle en tant qu’élève dans mon équipe de robotique [Evolution 2626](https://evolution2626.org). Avec notre robot Sling, nous avons participé aux qualifications de Montréal au début du mois de mars.
 
 ![Équipe de robotique 2018](/images/equipe-2018.jpg)
@@ -15,7 +16,11 @@ Bien que nous n’avons pas été choisis pour aller compétitionner aux mondiau
 
 **Notre voyage à Détroit**
 
-Afin de se rendre à Détroit, l'équipe [3990](https://www.team3990.com/) Tech for Kids nous nous a proposé de partager leur autobus avec eux à partir de Montréal. C'est ce qui nous a sauver et nous voulons les remercier.
+Afin de se rendre à Détroit, l'équipe [3990](https://www.team3990.com/) Tech for Kids nous nous a proposé de partager leur autobus avec eux à partir de Montréal. C'est ce qui nous a sauver et nous voulons les remercier. Nous sommes finalement arrivé mardi soir.
+
+
+Le lendemain matin, nous sommes allés visiter le centre Cobo pour la première fois. Nous avons récupéré nos badges et nous nous sommes préparé pour la conférence.
 
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Arrived at Cobo Center ! <a href="https://twitter.com/hashtag/FIRSTChamp?src=hash&amp;ref_src=twsrc%5Etfw">#FIRSTChamp</a> <a href="https://t.co/oiPgPC8jnS">pic.twitter.com/oiPgPC8jnS</a></p>&mdash; Félix Giffard @ #FIRSTChamp (@technonerdz) <a href="https://twitter.com/technonerdz/status/989134072327933952?ref_src=twsrc%5Etfw">25 avril 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
