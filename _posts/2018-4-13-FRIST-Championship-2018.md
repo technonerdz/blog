@@ -43,4 +43,15 @@ Les championnats du monde de FIRST sont toujours des événements immenses. Il y
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FEvolution2626%2Fphotos%2Fa.755687864463561.1073741827.339787526053599%2F1934459193253083%2F%3Ftype%3D3&width=500" width="500" height="380" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 
-Juste après notre conférence, Katie, membre de GIFT Robotics et participante à FIRST Global a donner une autre conférence sur l'inclusion de la communauté LGBTQ+ dans FIRST Robotics
+Juste après notre conférence, Katie, membre de GIFT Robotics et participante à FIRST Global a donner une autre conférence sur l'inclusion de la communauté LGBTQ+ dans FIRST Robotics. Comme je l'espérais, cette conférence fût une grande réussite et plus de 100 personnes y ont assisté. Le groupe a même remporter le prix des juges (Rainbow Award) pour leur implication!
+
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">We have some of our awesome staff members presenting on diversity and inclusion here at the FIRST World Championship! Stop by room 251A to see the presentation! <a href="https://t.co/IP781Sikdh">pic.twitter.com/IP781Sikdh</a></p>&mdash; LGBTQ​+ of FIRST (@LGBTQ_of_FIRST) <a href="https://twitter.com/LGBTQ_of_FIRST/status/989278694899363841?ref_src=twsrc%5Etfw">25 avril 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Le lendemain matin, nous sommes allés voir la conférence de l'organisme *Enabling The Future*. La mission de cette organisme est d'imprimer des mains avec un imprimante 3D afin d'aider les gens dans le besoin. Cette conférence était très inspirante et nous a donner le goût d'embarquer dans le projet.
+
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr"><a href="https://twitter.com/Enablethefuture?ref_src=twsrc%5Etfw">@Enablethefuture</a> with <a href="https://twitter.com/hashtag/omgrobots?src=hash&amp;ref_src=twsrc%5Etfw">#omgrobots</a> <a href="https://twitter.com/hashtag/FIRSTChamp?src=hash&amp;ref_src=twsrc%5Etfw">#FIRSTChamp</a> team <a href="https://twitter.com/FrogForce?ref_src=twsrc%5Etfw">@FrogForce</a> in <a href="https://twitter.com/hashtag/detroit?src=hash&amp;ref_src=twsrc%5Etfw">#detroit</a> sharing about <a href="https://twitter.com/hashtag/3Dprinted?src=hash&amp;ref_src=twsrc%5Etfw">#3Dprinted</a> hands and <a href="https://twitter.com/hashtag/makingadifference?src=hash&amp;ref_src=twsrc%5Etfw">#makingadifference</a> <a href="https://t.co/OTqdHIJIGB">pic.twitter.com/OTqdHIJIGB</a></p>&mdash; Enabling The Future (@Enablethefuture) <a href="https://twitter.com/Enablethefuture/status/989620903985205248?ref_src=twsrc%5Etfw">26 avril 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
