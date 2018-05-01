@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FIRST Championship 2018
-tags: FIRST robotics events
+tags: first robotics events
 img: First-Championship-2018.jpg
 isarticle: yes
 ---
