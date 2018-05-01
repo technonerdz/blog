@@ -23,3 +23,24 @@ Le lendemain matin, nous sommes allés visiter le centre Cobo pour la première 
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Arrived at Cobo Center ! <a href="https://twitter.com/hashtag/FIRSTChamp?src=hash&amp;ref_src=twsrc%5Etfw">#FIRSTChamp</a> <a href="https://t.co/oiPgPC8jnS">pic.twitter.com/oiPgPC8jnS</a></p>&mdash; Félix Giffard @ #FIRSTChamp (@technonerdz) <a href="https://twitter.com/technonerdz/status/989134072327933952?ref_src=twsrc%5Etfw">25 avril 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Notre conférence s'est très bien passée. Nous avons présenté devant plus de 50 personnes. C'était vraiment une belle expérience. Ça nous a également permis de rencontrer nos partenaires de GIFT Robotics pour la première fois dans la vrai vie. La conférence est disponible sur notre page Facebook : 
+
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FGIFTRobotics%2Fvideos%2F605696456430846%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+
+**Ce que j'ai le plus aimé du championnat**
+
+
+Les championnats du monde de FIRST sont toujours des événements immenses. Il y a de l'action partout. Cette année, nous avons vraiment eu la chance de visiter presque tout ce que l'on voulait.
+
+
+Évidemment, la chose que toute l'équipe attendait était la rencontre avec nos partenaires de GIFT Robotics. C'était la première fois qu'on se rencontrais en vrai pour la plupart. Ensemble, on a réussi à donner une superbe conférence!
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FEvolution2626%2Fphotos%2Fa.755687864463561.1073741827.339787526053599%2F1934459193253083%2F%3Ftype%3D3&width=500" width="500" height="380" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+
+Juste après notre conférence, Katie, membre de GIFT Robotics et participante à FIRST Global a donner une autre conférence sur l'inclusion de la communauté LGBTQ+ dans FIRST Robotics
