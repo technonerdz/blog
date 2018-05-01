@@ -12,6 +12,14 @@
     <meta property="og:description" content="{{ site.description }}" />
     <meta name="twitter:description" content="{{ site.description }}" />
     {% endif %}
+    {% if page.isarticle %}
+    <meta property="og:type" content="article" />
+    <meta name="article:author" content="{{ site.name }}" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Félix Giffard" />
+    {% else %}
+    <meta property="og:type" content="website" />
+    {% endif %}
     <meta name="author" content="{{ site.name }}" />
     <meta property="og:site_name" content="{{ site.name }}" />
     <meta name="twitter:card" content="summary_large_image" />
@@ -28,14 +36,6 @@
     <meta name="twitter:title" content="Félix Giffard" />
     <meta property="og:url" content="https://felix.technology/" />
     <meta name="twitter:url" content="https://felix.technology/" />
-    {% endif %}
-    {% if page.isarticle %}
-    <meta property="og:type" content="article" />
-    <meta name="article:author" content="{{ site.name }}" />
-    <meta name="twitter:label1" content="Written by" />
-    <meta name="twitter:data1" content="Félix Giffard" />
-    {% else %}
-    <meta property="og:type" content="website" />
     {% endif %}
     {% if page.img %}
     <meta property="og:image" content="https://felix.technology/images/{{ page.img }}" />
