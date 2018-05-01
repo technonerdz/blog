@@ -1,5 +1,5 @@
 ---
 layout: tagposts
-title: "Tag: TEST"
+title: test
 tag: test
 ---
