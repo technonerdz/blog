@@ -21,18 +21,21 @@
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
-    <meta property="og:type" content="article" />
     <meta property="og:url" content="https://felix.technology{{ site.baseurl }}{{ page.url }}" />
     <meta name="twitter:url" content="https://felix.technology{{ site.baseurl }}{{ page.url }}" />
+    {% else %}
+    <meta property="og:title" content="Félix Giffard" />
+    <meta name="twitter:title" content="Félix Giffard" />
+    <meta property="og:url" content="https://felix.technology/" />
+    <meta name="twitter:url" content="https://felix.technology/" />
+    {% endif %}
+    {% if page.isarticle %}
+    <meta property="og:type" content="article" />
     <meta name="article:author" content="{{ site.name }}" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="Félix Giffard" />
     {% else %}
-    <meta property="og:title" content="Félix Giffard" />
-    <meta name="twitter:title" content="Félix Giffard" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://felix.technology/" />
-    <meta name="twitter:url" content="https://felix.technology/" />
     {% endif %}
     {% if page.img %}
     <meta property="og:image" content="https://felix.technology/images/{{ page.img }}" />
