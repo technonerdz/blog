@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FIRST Championship 2018
-tags: FIRST, Robotics, Events
+tags: FIRST robotics events
 ---
 Cette année était ma dernière année du secondaire et donc ma dernière année officielle en tant qu’élève dans mon équipe de robotique [Evolution 2626](https://evolution2626.org). Avec notre robot Sling, nous avons participé aux qualifications de Montréal au début du mois de mars.
 
