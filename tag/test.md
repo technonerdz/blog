@@ -1,5 +1,5 @@
 ---
 layout: tagposts
-title: test
-permalink: /tag/test/
+title: "Tag: TEST"
+tag: test
 ---
