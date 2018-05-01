@@ -1,8 +1,7 @@
 ---
-layout: tags
-title: Tags
+layout: tagposts
+title: Test
 permalink: /tag/test/
-tag: test
 ---
 
 this is a test tag
