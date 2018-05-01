@@ -34,7 +34,7 @@ Notre conférence s'est très bien passée. Nous avons présenté devant plus de
 **Ce que j'ai le plus aimé du championnat**
 
 
-Les championnats du monde de FIRST sont toujours des événements immenses. Il y a de l'action partout. Cette année, nous avons vraiment eu la chance de visiter presque tout ce que l'on voulait.
+Les championnats du monde de FIRST sont toujours des événements immenses. Il y a de l'action partout. Cette année, nous avons eu la chance de visiter presque tout ce que l'on voulait.
 
 
 Évidemment, la chose que toute l'équipe attendait était la rencontre avec nos partenaires de GIFT Robotics. C'était la première fois qu'on se rencontrais en vrai pour la plupart. Ensemble, on a réussi à donner une superbe conférence!
@@ -55,3 +55,16 @@ Le lendemain matin, nous sommes allés voir la conférence de l'organisme *Enabl
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr"><a href="https://twitter.com/Enablethefuture?ref_src=twsrc%5Etfw">@Enablethefuture</a> with <a href="https://twitter.com/hashtag/omgrobots?src=hash&amp;ref_src=twsrc%5Etfw">#omgrobots</a> <a href="https://twitter.com/hashtag/FIRSTChamp?src=hash&amp;ref_src=twsrc%5Etfw">#FIRSTChamp</a> team <a href="https://twitter.com/FrogForce?ref_src=twsrc%5Etfw">@FrogForce</a> in <a href="https://twitter.com/hashtag/detroit?src=hash&amp;ref_src=twsrc%5Etfw">#detroit</a> sharing about <a href="https://twitter.com/hashtag/3Dprinted?src=hash&amp;ref_src=twsrc%5Etfw">#3Dprinted</a> hands and <a href="https://twitter.com/hashtag/makingadifference?src=hash&amp;ref_src=twsrc%5Etfw">#makingadifference</a> <a href="https://t.co/OTqdHIJIGB">pic.twitter.com/OTqdHIJIGB</a></p>&mdash; Enabling The Future (@Enablethefuture) <a href="https://twitter.com/Enablethefuture/status/989620903985205248?ref_src=twsrc%5Etfw">26 avril 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Le matin du 27 Avril, nous avons eu la chance de rencontrer la Gouverneure générale du Canada Julie Payette et de lui parler un peu de notre conférence là-bas.
+
+
+Tout de suite après, nous avons pu retourner voir les matchs de l'équipe 694. Ils se sont rendus jusqu'en demi-finale.
+
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Ready for the first semifinal match of our friends <a href="https://twitter.com/StuyPulseRobots?ref_src=twsrc%5Etfw">@StuyPulseRobots</a> <a href="https://t.co/tRVUKjupYe">pic.twitter.com/tRVUKjupYe</a></p>&mdash; Félix Giffard (@technonerdz) <a href="https://twitter.com/technonerdz/status/990247687885910016?ref_src=twsrc%5Etfw">28 avril 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Pour terminer, je crois que nous pouvons être fier de notre voyage. Nous avons découvert pleins de choses et fait des rencontres extraordinaires. J'espère fortement y retourner l'an prochain!
