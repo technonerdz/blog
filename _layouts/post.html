@@ -12,6 +12,15 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
+  
+  <!--
+
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+<p>{{ tag_name }}</p>
+  {% endfor %}
+
+-->
 
   {% include disqus.html %}
 </article>
