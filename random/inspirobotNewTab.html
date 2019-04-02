@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <title>Inspiro Tab</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=" crossorigin="anonymous" />
+    
+        <style>
+        
+        body { 
+            background: url(https://inspirobot.me/website/images/bg20.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+        }
+        
+        </style>
+        
+    </head>
+
+    <body>
+        <div class="row">
+            <div class="col-md-1">
+            
+            </div>
+            <div class="col-md-10" style="text-align: center">
+                <hr/>
+                <hr/>
+                <hr/>
+                <div id="inspiroimg"></div>
+            </div>
+            <div class="col-md-1">
+            
+            </div>
+        </div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+        <script>   
+            $.ajax({url: "https://inspirobot.me/api?generate=true", success: function(result){
+                document.getElementById("inspiroimg").innerHTML = '<img src="' + result + '" height="80%" alt="image">';
+            }});
+            
+        </script>
+    
+    </body>
+</html>
