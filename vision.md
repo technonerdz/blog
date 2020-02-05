@@ -14,6 +14,9 @@ Construction d'un alligator à l'aide d'un plan. **Attention** le plan contient 
 
 ## Activité 3 - Voiture de course
 Construction d'une voiture de course. La voiture peut être construite à l'aide d'un plan, ou à l'aide de votre imagination! Vous devez documenter votre création dans l'application Wedo. Prenez une photo et une vidéo de votre robot!
-Plans
+
+Plans:
+
 [Modèle 1: Cliquez ici!](https://drive.google.com/file/d/11D21mT6rHVC7cJFw97_VuyCtb4rctFqr/view)
+
 [Modèle 2: Cliquez ici!](https://le-www-live-s.legocdn.com/sc/media/files/building-instructions/wedo-2/45300_02a_race_car-598b60f4349319e88a591117771aa909.pdf)
