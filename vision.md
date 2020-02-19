@@ -31,7 +31,7 @@ Vous devez documenter votre création dans l'application Wedo. Prenez une photo 
 [Présentation](https://docs.google.com/presentation/d/1A6gXRWM7XxhiBUTUnSf1F1xZS4uWDuA5luRsVPWiTFg/edit?usp=sharing)
 
 ## Activité 5 - Camion de recyclage
-Le réchauffement de la planète est d’un problème grandissant. Aujourd’hui vous devrez bâtir un camion de recyclage à l’aide de votre ensemble WeDo. Votre robot doit être capable de vider sa cargaison une fois rendu au centre de recyclage. Vous pouvez construire votre camion à l'aide du plan, ou à l'aide de votre imagination!
+Le réchauffement de la planète est d’un problème grandissant. Aujourd’hui vous devrez bâtir un camion de recyclage à l’aide de votre ensemble WeDo. Votre robot doit être capable de vider sa cargaison une fois rendu au centre de recyclage. Vous pouvez construire votre camion de recyclage à l'aide du plan, ou à l'aide de votre imagination!
 
 Vous devez documenter votre création dans l'application Wedo. Prenez une photo et une vidéo de votre robot. Écrivez une courte description de votre camion, expliquez pourquoi vous l'avez construit comme ça et expliquez son fonctionnement.
 
