@@ -29,3 +29,10 @@ Construction d'un robot capable de tirer un autre robot. Le but de la compétiti
 Vous devez documenter votre création dans l'application Wedo. Prenez une photo et une vidéo de votre robot. Écrivez une courte description de votre robot sumo, expliquez pourquoi vous l'avez construit comme ça et expliquez son fonctionnement.
 
 [Présentation](https://docs.google.com/presentation/d/1A6gXRWM7XxhiBUTUnSf1F1xZS4uWDuA5luRsVPWiTFg/edit?usp=sharing)
+
+## Activité 5 - Camion de recyclage
+Le réchauffement de la planète est d’un problème grandissant. Aujourd’hui vous devrez bâtir un camion de recyclage à l’aide de votre ensemble WeDo. Votre robot doit être capable de vider sa cargaison une fois rendu au centre de recyclage. Vous pouvez construire votre camion à l'aide du plan, ou à l'aide de votre imagination!
+
+Vous devez documenter votre création dans l'application Wedo. Prenez une photo et une vidéo de votre robot. Écrivez une courte description de votre camion, expliquez pourquoi vous l'avez construit comme ça et expliquez son fonctionnement.
+
+[Plan: Cliquez ici!](https://le-www-live-s.legocdn.com/sc/media/lessons/wedo-2/building-instructions/recycling-truck-instructions-eae373f70f5811db8e87e32bd9c82f52.pdf)
