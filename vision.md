@@ -36,3 +36,9 @@ Le réchauffement de la planète est d’un problème grandissant. Aujourd’hui
 Vous devez documenter votre création dans l'application Wedo. Prenez une photo et une vidéo de votre robot. Écrivez une courte description de votre camion, expliquez pourquoi vous l'avez construit comme ça et expliquez son fonctionnement.
 
 [Plan: Cliquez ici!](https://le-www-live-s.legocdn.com/sc/media/lessons/wedo-2/building-instructions/recycling-truck-instructions-eae373f70f5811db8e87e32bd9c82f52.pdf)
+
+## Activité 6 - Robot Transformer
+Construction d'un robot transformer en Lego WeDo. Pour construire votre robot transformer, vous devrez suivre les instructions dans le vidéo.
+
+Vous devez documenter votre création dans l'application Wedo. Prenez une photo et une vidéo de votre robot et écrivez une courte description.
+[Instructions: Cliquez ici!](https://www.youtube.com/watch?v=j91JRWKcCsI)
