@@ -43,3 +43,10 @@ Construction d'un robot transformer en Lego WeDo. Pour construire votre robot tr
 Vous devez documenter votre création dans l'application Wedo. Prenez une photo et une vidéo de votre robot et écrivez une courte description.
 
 [Instructions: Cliquez ici!](https://www.youtube.com/watch?v=j91JRWKcCsI)
+
+## Activité 7 - AT AT Walker
+Construction d'un AT AT de Star wars en Lego WeDo.
+
+Vous devez documenter votre création dans l'application Wedo. Prenez une photo et une vidéo de votre robot et écrivez une courte description.
+
+[Plan: Cliquez ici!](https://drive.google.com/open?id=1vWcTcSSOt4SR5lZ2mraFwhiO6SS5DBwx)
